@@ -1,0 +1,14 @@
+{
+  "dependencies": {
+    "twilio": "^4.21.0"
+  },
+  "scripts": {
+    "start": "node index.js"
+  },
+  "name": "twilio",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
