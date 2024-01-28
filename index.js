@@ -6,10 +6,10 @@ twilio.messages
   .create({
     from: "+12512701067",
     to: "+15197099549",
-    body: "this is a testing message",
+    body: "twilio nodejs sms test ",
   })
   .then(function (res) {
-    console.log("message has sent!");
+    console.log("message sent!");
   })
   .catch(function (err) {
     console.log(err);
